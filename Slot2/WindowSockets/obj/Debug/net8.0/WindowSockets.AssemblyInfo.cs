@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WindowSockets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afd11047a27f30e5b7a49baa2120c749c1aba377")]
 [assembly: System.Reflection.AssemblyProductAttribute("WindowSockets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WindowSockets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

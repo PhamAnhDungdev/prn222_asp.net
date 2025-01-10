@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowSockets", "WindowSockets\WindowSockets.csproj", "{5F6F060A-80E7-4E2A-85AA-9A0835463461}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowSockets", "WindowSockets\WindowSockets.csproj", "{5F6F060A-80E7-4E2A-85AA-9A0835463461}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerApp", "ServerApp\ServerApp.csproj", "{14599154-D84F-4898-B3E2-E6A4FD88656E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerApp", "ServerApp\ServerApp.csproj", "{14599154-D84F-4898-B3E2-E6A4FD88656E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApp", "ClientApp\ClientApp.csproj", "{D07E2688-5D7A-4496-9F34-DDA43E134658}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientApp", "ClientApp\ClientApp.csproj", "{D07E2688-5D7A-4496-9F34-DDA43E134658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPServerApp", "UDPServerApp\UDPServerApp.csproj", "{0F66EF20-FD7D-49D2-841A-942186EC8E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPClientApp", "UDPClientApp\UDPClientApp.csproj", "{E74394D1-6865-49A3-80E4-33282EAEC652}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{D07E2688-5D7A-4496-9F34-DDA43E134658}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D07E2688-5D7A-4496-9F34-DDA43E134658}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D07E2688-5D7A-4496-9F34-DDA43E134658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F66EF20-FD7D-49D2-841A-942186EC8E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F66EF20-FD7D-49D2-841A-942186EC8E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F66EF20-FD7D-49D2-841A-942186EC8E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F66EF20-FD7D-49D2-841A-942186EC8E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E74394D1-6865-49A3-80E4-33282EAEC652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74394D1-6865-49A3-80E4-33282EAEC652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74394D1-6865-49A3-80E4-33282EAEC652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74394D1-6865-49A3-80E4-33282EAEC652}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

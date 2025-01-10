@@ -1,0 +1,15 @@
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot2\UDPClientApp\bin\Debug\net8.0\UDPClientApp.exe
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot2\UDPClientApp\bin\Debug\net8.0\UDPClientApp.deps.json
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot2\UDPClientApp\bin\Debug\net8.0\UDPClientApp.runtimeconfig.json
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot2\UDPClientApp\bin\Debug\net8.0\UDPClientApp.dll
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot2\UDPClientApp\bin\Debug\net8.0\UDPClientApp.pdb
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot2\UDPClientApp\obj\Debug\net8.0\UDPClientApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot2\UDPClientApp\obj\Debug\net8.0\UDPClientApp.AssemblyInfoInputs.cache
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot2\UDPClientApp\obj\Debug\net8.0\UDPClientApp.AssemblyInfo.cs
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot2\UDPClientApp\obj\Debug\net8.0\UDPClientApp.csproj.CoreCompileInputs.cache
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot2\UDPClientApp\obj\Debug\net8.0\UDPClientApp.sourcelink.json
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot2\UDPClientApp\obj\Debug\net8.0\UDPClientApp.dll
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot2\UDPClientApp\obj\Debug\net8.0\refint\UDPClientApp.dll
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot2\UDPClientApp\obj\Debug\net8.0\UDPClientApp.pdb
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot2\UDPClientApp\obj\Debug\net8.0\UDPClientApp.genruntimeconfig.cache
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot2\UDPClientApp\obj\Debug\net8.0\ref\UDPClientApp.dll

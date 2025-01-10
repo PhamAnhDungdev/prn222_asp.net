@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14599154-D84F-4898-B3E2-E6A4FD88656E}|ServerApp\\ServerApp.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\slot2\\serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14599154-D84F-4898-B3E2-E6A4FD88656E}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F66EF20-FD7D-49D2-841A-942186EC8E1F}|UDPServerApp\\UDPServerApp.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\slot2\\udpserverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F66EF20-FD7D-49D2-841A-942186EC8E1F}|UDPServerApp\\UDPServerApp.csproj|solutionrelative:udpserverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D07E2688-5D7A-4496-9F34-DDA43E134658}|ClientApp\\ClientApp.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\slot2\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D07E2688-5D7A-4496-9F34-DDA43E134658}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E74394D1-6865-49A3-80E4-33282EAEC652}|UDPClientApp\\UDPClientApp.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\slot2\\udpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74394D1-6865-49A3-80E4-33282EAEC652}|UDPClientApp\\UDPClientApp.csproj|solutionrelative:udpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,26 +32,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot2\\ClientApp\\Program.cs",
-              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
-              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot2\\ClientApp\\Program.cs",
-              "RelativeToolTip": "ClientApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot2\\UDPClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "UDPClientApp\\Program.cs",
+              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot2\\UDPClientApp\\Program.cs",
+              "RelativeToolTip": "UDPClientApp\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T01:05:36.611Z",
+              "WhenOpened": "2025-01-10T02:00:22.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot2\\ServerApp\\Program.cs",
-              "RelativeDocumentMoniker": "ServerApp\\Program.cs",
-              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot2\\ServerApp\\Program.cs",
-              "RelativeToolTip": "ServerApp\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAC8AAAA4AAAA",
+              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot2\\UDPServerApp\\Program.cs",
+              "RelativeDocumentMoniker": "UDPServerApp\\Program.cs",
+              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot2\\UDPServerApp\\Program.cs",
+              "RelativeToolTip": "UDPServerApp\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T01:05:12.257Z",
+              "WhenOpened": "2025-01-10T01:50:49.849Z",
               "EditorCaption": ""
             }
           ]
