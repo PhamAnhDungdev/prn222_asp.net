@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Buoi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D33CCAA-67A8-43BB-922F-BE716A9746ED}|WPF_GetReqResp\\WPF_GetReqResp.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\buoi1\\wpf_getreqresp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D33CCAA-67A8-43BB-922F-BE716A9746ED}|WPF_GetReqResp\\WPF_GetReqResp.csproj|solutionrelative:wpf_getreqresp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D33CCAA-67A8-43BB-922F-BE716A9746ED}|WPF_GetReqResp\\WPF_GetReqResp.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\buoi1\\wpf_getreqresp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D33CCAA-67A8-43BB-922F-BE716A9746ED}|WPF_GetReqResp\\WPF_GetReqResp.csproj|solutionrelative:wpf_getreqresp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D7817E-050F-47B2-9D0F-1EDC0F55E43D}|URLURIURN\\URLURIURN.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\buoi1\\urluriurn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D7817E-050F-47B2-9D0F-1EDC0F55E43D}|URLURIURN\\URLURIURN.csproj|solutionrelative:urluriurn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Buoi1\\WPF_GetReqResp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_GetReqResp\\MainWindow.xaml",
+              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Buoi1\\WPF_GetReqResp\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_GetReqResp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-08T05:05:17.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Buoi1\\WPF_GetReqResp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_GetReqResp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Buoi1\\WPF_GetReqResp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_GetReqResp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:05:16.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Buoi1\\URLURIURN\\Program.cs",
+              "RelativeDocumentMoniker": "URLURIURN\\Program.cs",
+              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Buoi1\\URLURIURN\\Program.cs",
+              "RelativeToolTip": "URLURIURN\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:13:51.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14599154-D84F-4898-B3E2-E6A4FD88656E}|ServerApp\\ServerApp.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\slot2\\serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14599154-D84F-4898-B3E2-E6A4FD88656E}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07E2688-5D7A-4496-9F34-DDA43E134658}|ClientApp\\ClientApp.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\slot2\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07E2688-5D7A-4496-9F34-DDA43E134658}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot2\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
+              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot2\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:05:36.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot2\\ServerApp\\Program.cs",
+              "RelativeDocumentMoniker": "ServerApp\\Program.cs",
+              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot2\\ServerApp\\Program.cs",
+              "RelativeToolTip": "ServerApp\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAC8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:05:12.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

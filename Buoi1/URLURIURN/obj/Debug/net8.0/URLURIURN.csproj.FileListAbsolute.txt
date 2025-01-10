@@ -1,0 +1,14 @@
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Buoi1\URLURIURN\bin\Debug\net8.0\URLURIURN.exe
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Buoi1\URLURIURN\bin\Debug\net8.0\URLURIURN.deps.json
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Buoi1\URLURIURN\bin\Debug\net8.0\URLURIURN.runtimeconfig.json
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Buoi1\URLURIURN\bin\Debug\net8.0\URLURIURN.dll
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Buoi1\URLURIURN\bin\Debug\net8.0\URLURIURN.pdb
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Buoi1\URLURIURN\obj\Debug\net8.0\URLURIURN.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Buoi1\URLURIURN\obj\Debug\net8.0\URLURIURN.AssemblyInfoInputs.cache
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Buoi1\URLURIURN\obj\Debug\net8.0\URLURIURN.AssemblyInfo.cs
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Buoi1\URLURIURN\obj\Debug\net8.0\URLURIURN.csproj.CoreCompileInputs.cache
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Buoi1\URLURIURN\obj\Debug\net8.0\URLURIURN.dll
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Buoi1\URLURIURN\obj\Debug\net8.0\refint\URLURIURN.dll
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Buoi1\URLURIURN\obj\Debug\net8.0\URLURIURN.pdb
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Buoi1\URLURIURN\obj\Debug\net8.0\URLURIURN.genruntimeconfig.cache
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Buoi1\URLURIURN\obj\Debug\net8.0\ref\URLURIURN.dll
