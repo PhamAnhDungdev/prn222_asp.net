@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\PRN222_LAB\\Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ED17E50-BCDE-4EF5-8A01-A94F44141B22}|TCPServerApp\\TCPServerApp.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\prn222_lab\\lab1\\tcpserverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED17E50-BCDE-4EF5-8A01-A94F44141B22}|TCPServerApp\\TCPServerApp.csproj|solutionrelative:tcpserverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C9FD00F-665A-4722-9D1D-E0B55C9A3013}|TCPClientApp\\TCPClientApp.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\prn222_lab\\lab1\\tcpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C9FD00F-665A-4722-9D1D-E0B55C9A3013}|TCPClientApp\\TCPClientApp.csproj|solutionrelative:tcpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED17E50-BCDE-4EF5-8A01-A94F44141B22}|TCPServerApp\\TCPServerApp.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\prn222_lab\\lab1\\tcpserverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED17E50-BCDE-4EF5-8A01-A94F44141B22}|TCPServerApp\\TCPServerApp.csproj|solutionrelative:tcpserverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\PRN222_LAB\\Lab1\\TCPServerApp\\Program.cs",
               "RelativeDocumentMoniker": "TCPServerApp\\Program.cs",
               "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\PRN222_LAB\\Lab1\\TCPServerApp\\Program.cs",
               "RelativeToolTip": "TCPServerApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T02:35:25.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\PRN222_LAB\\Lab1\\TCPClientApp\\Program.cs",
               "RelativeDocumentMoniker": "TCPClientApp\\Program.cs",
               "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\PRN222_LAB\\Lab1\\TCPClientApp\\Program.cs",
               "RelativeToolTip": "TCPClientApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwDMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T02:35:07.308Z",
               "EditorCaption": ""
