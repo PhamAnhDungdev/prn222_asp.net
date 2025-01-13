@@ -6,7 +6,43 @@
         xmlns:local="clr-namespace:FetchDataUsingHttpClients"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
+    <Grid Background="LightBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel VerticalAlignment="Stretch"
+                    HorizontalAlignment="Stretch"
+                    Orientation="Vertical">
+            <Label Name="lbURL" Content="URL"/>
+            <TextBox Name="txtURL" Text="http://www.contoso.com" Height="25"/>
+            <Label Name="lbContent" Content="HTML Source"/>
+        </StackPanel>
+        <TextBox 
+            Grid.Row="1"
+            Name="txtContent"
+            TextWrapping="Wrap"
+            HorizontalScrollBarVisibility="Auto"
+            AcceptsReturn="True"
+            VerticalScrollBarVisibility="Visible"
+            />
+        <StackPanel
+                Grid.Row="2"
+                Orientation="Horizontal"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+            >
+            <Button 
+                    x:Name="btnViewHTML" Margin="25,5" Width="80"
+                    Content="View HTML" Click="btnViewHTML_Click"
+                />
+            <Button 
+                    x:Name="btnClear" Margin="25,5" Width="80"
+                    Content="Clear" Click="btnClear_Click"/>
+            <Button 
+                    x:Name="btnClose" Margin="25,5" Width="80"
+                    Content="Close" Click="btnClose_Click"/>
+        </StackPanel>
     </Grid>
 </Window>

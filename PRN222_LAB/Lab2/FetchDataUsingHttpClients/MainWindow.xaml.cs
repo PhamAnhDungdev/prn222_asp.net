@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Net.Http;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -19,6 +20,26 @@ namespace FetchDataUsingHttpClients
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        readonly HttpClient client = new HttpClient();
+        private async void btnViewHTML_Click(object sender, RoutedEventArgs e)
+        {
+            string uri = txtURL.Text;
+            try
+            {
+                string responseBody = await client.GetStringAsync(uri);
+            } catch (HttpRequestException ex)
+            {
+                MessageBox.Show($"Message: :{ex.Message}");
+            }
+        }
+
+        private void btnClose_Click(object sender, RoutedEventArgs e) => Close();
+
+        private void btnClear_Click(object sender, RoutedEventArgs e)
+        {
+            txtContent.Text = string.Empty;
         }
     }
 }
