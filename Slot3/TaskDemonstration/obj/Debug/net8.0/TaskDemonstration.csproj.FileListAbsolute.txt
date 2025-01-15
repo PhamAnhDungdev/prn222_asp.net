@@ -1,0 +1,15 @@
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot3\TaskDemonstration\bin\Debug\net8.0\TaskDemonstration.exe
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot3\TaskDemonstration\bin\Debug\net8.0\TaskDemonstration.deps.json
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot3\TaskDemonstration\bin\Debug\net8.0\TaskDemonstration.runtimeconfig.json
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot3\TaskDemonstration\bin\Debug\net8.0\TaskDemonstration.dll
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot3\TaskDemonstration\bin\Debug\net8.0\TaskDemonstration.pdb
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot3\TaskDemonstration\obj\Debug\net8.0\TaskDemonstration.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot3\TaskDemonstration\obj\Debug\net8.0\TaskDemonstration.AssemblyInfoInputs.cache
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot3\TaskDemonstration\obj\Debug\net8.0\TaskDemonstration.AssemblyInfo.cs
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot3\TaskDemonstration\obj\Debug\net8.0\TaskDemonstration.csproj.CoreCompileInputs.cache
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot3\TaskDemonstration\obj\Debug\net8.0\TaskDemonstration.sourcelink.json
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot3\TaskDemonstration\obj\Debug\net8.0\TaskDemonstration.dll
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot3\TaskDemonstration\obj\Debug\net8.0\refint\TaskDemonstration.dll
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot3\TaskDemonstration\obj\Debug\net8.0\TaskDemonstration.pdb
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot3\TaskDemonstration\obj\Debug\net8.0\TaskDemonstration.genruntimeconfig.cache
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot3\TaskDemonstration\obj\Debug\net8.0\ref\TaskDemonstration.dll
