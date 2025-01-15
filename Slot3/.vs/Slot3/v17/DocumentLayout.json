@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BB81C1B3-2144-411C-8104-1E8E56D6FEF4}|TaskDemonstration04\\TaskDemonstration04.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\slot3\\taskdemonstration04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB81C1B3-2144-411C-8104-1E8E56D6FEF4}|TaskDemonstration04\\TaskDemonstration04.csproj|solutionrelative:taskdemonstration04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5AE36-6418-49FE-841B-7653F40DBB58}|TaskDemonstration03\\TaskDemonstration03.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\slot3\\taskdemonstration03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E5AE36-6418-49FE-841B-7653F40DBB58}|TaskDemonstration03\\TaskDemonstration03.csproj|solutionrelative:taskdemonstration03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1DD05B-C904-461F-8CEB-247FBF2CCCFF}|TaskDemonstration02\\TaskDemonstration02.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\slot3\\taskdemonstration02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1DD05B-C904-461F-8CEB-247FBF2CCCFF}|TaskDemonstration02\\TaskDemonstration02.csproj|solutionrelative:taskdemonstration02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6BF0E35D-0427-4CC9-8046-080C5B223F21}|TaskDemonstration\\TaskDemonstration.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\slot3\\taskdemonstration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF0E35D-0427-4CC9-8046-080C5B223F21}|TaskDemonstration\\TaskDemonstration.csproj|solutionrelative:taskdemonstration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -28,14 +40,50 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot3\\TaskDemonstration04\\Program.cs",
+              "RelativeDocumentMoniker": "TaskDemonstration04\\Program.cs",
+              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot3\\TaskDemonstration04\\Program.cs",
+              "RelativeToolTip": "TaskDemonstration04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:03:34.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot3\\TaskDemonstration03\\Program.cs",
+              "RelativeDocumentMoniker": "TaskDemonstration03\\Program.cs",
+              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot3\\TaskDemonstration03\\Program.cs",
+              "RelativeToolTip": "TaskDemonstration03\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T04:57:09.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot3\\TaskDemonstration02\\Program.cs",
+              "RelativeDocumentMoniker": "TaskDemonstration02\\Program.cs",
+              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot3\\TaskDemonstration02\\Program.cs",
+              "RelativeToolTip": "TaskDemonstration02\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T04:51:47.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot3\\TaskDemonstration\\Program.cs",
               "RelativeDocumentMoniker": "TaskDemonstration\\Program.cs",
               "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot3\\TaskDemonstration\\Program.cs",
               "RelativeToolTip": "TaskDemonstration\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwBUAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T04:26:15.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T04:26:15.433Z"
             }
           ]
         }
