@@ -1,0 +1,15 @@
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\PLINQ_Demonstration02\bin\Debug\net8.0\PLINQ_Demonstration02.exe
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\PLINQ_Demonstration02\bin\Debug\net8.0\PLINQ_Demonstration02.deps.json
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\PLINQ_Demonstration02\bin\Debug\net8.0\PLINQ_Demonstration02.runtimeconfig.json
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\PLINQ_Demonstration02\bin\Debug\net8.0\PLINQ_Demonstration02.dll
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\PLINQ_Demonstration02\bin\Debug\net8.0\PLINQ_Demonstration02.pdb
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\PLINQ_Demonstration02\obj\Debug\net8.0\PLINQ_Demonstration02.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\PLINQ_Demonstration02\obj\Debug\net8.0\PLINQ_Demonstration02.AssemblyInfoInputs.cache
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\PLINQ_Demonstration02\obj\Debug\net8.0\PLINQ_Demonstration02.AssemblyInfo.cs
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\PLINQ_Demonstration02\obj\Debug\net8.0\PLINQ_Demonstration02.csproj.CoreCompileInputs.cache
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\PLINQ_Demonstration02\obj\Debug\net8.0\PLINQ_Demonstration02.sourcelink.json
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\PLINQ_Demonstration02\obj\Debug\net8.0\PLINQ_Demonstration02.dll
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\PLINQ_Demonstration02\obj\Debug\net8.0\refint\PLINQ_Demonstration02.dll
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\PLINQ_Demonstration02\obj\Debug\net8.0\PLINQ_Demonstration02.pdb
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\PLINQ_Demonstration02\obj\Debug\net8.0\PLINQ_Demonstration02.genruntimeconfig.cache
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\PLINQ_Demonstration02\obj\Debug\net8.0\ref\PLINQ_Demonstration02.dll

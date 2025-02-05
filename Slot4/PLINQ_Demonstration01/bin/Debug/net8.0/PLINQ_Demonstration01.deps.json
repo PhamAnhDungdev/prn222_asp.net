@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PLINQ_Demonstration01/1.0.0": {
+        "runtime": {
+          "PLINQ_Demonstration01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PLINQ_Demonstration01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

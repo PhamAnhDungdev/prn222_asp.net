@@ -1,0 +1,15 @@
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\AsynchronousDemonstration01\bin\Debug\net8.0\AsynchronousDemonstration01.exe
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\AsynchronousDemonstration01\bin\Debug\net8.0\AsynchronousDemonstration01.deps.json
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\AsynchronousDemonstration01\bin\Debug\net8.0\AsynchronousDemonstration01.runtimeconfig.json
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\AsynchronousDemonstration01\bin\Debug\net8.0\AsynchronousDemonstration01.dll
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\AsynchronousDemonstration01\bin\Debug\net8.0\AsynchronousDemonstration01.pdb
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\AsynchronousDemonstration01\obj\Debug\net8.0\AsynchronousDemonstration01.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\AsynchronousDemonstration01\obj\Debug\net8.0\AsynchronousDemonstration01.AssemblyInfoInputs.cache
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\AsynchronousDemonstration01\obj\Debug\net8.0\AsynchronousDemonstration01.AssemblyInfo.cs
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\AsynchronousDemonstration01\obj\Debug\net8.0\AsynchronousDemonstration01.csproj.CoreCompileInputs.cache
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\AsynchronousDemonstration01\obj\Debug\net8.0\AsynchronousDemonstration01.sourcelink.json
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\AsynchronousDemonstration01\obj\Debug\net8.0\AsynchronousDemonstration01.dll
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\AsynchronousDemonstration01\obj\Debug\net8.0\refint\AsynchronousDemonstration01.dll
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\AsynchronousDemonstration01\obj\Debug\net8.0\AsynchronousDemonstration01.pdb
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\AsynchronousDemonstration01\obj\Debug\net8.0\AsynchronousDemonstration01.genruntimeconfig.cache
+D:\LearningContent.FPT\Spring2025\PRN222 - FE - PE\PracticeClass\Slot4\AsynchronousDemonstration01\obj\Debug\net8.0\ref\AsynchronousDemonstration01.dll
