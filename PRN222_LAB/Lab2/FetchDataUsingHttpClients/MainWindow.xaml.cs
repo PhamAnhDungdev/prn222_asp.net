@@ -29,6 +29,7 @@ namespace FetchDataUsingHttpClients
             try
             {
                 string responseBody = await client.GetStringAsync(uri);
+                txtContent.Text = responseBody.Trim();
             } catch (HttpRequestException ex)
             {
                 MessageBox.Show($"Message: :{ex.Message}");

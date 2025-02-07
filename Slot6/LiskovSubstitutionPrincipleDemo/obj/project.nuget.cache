@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/XrFuCul15n/Ysw+hvaefNaR04DbSYXzc5d3xfshwSnMgPeULnVjV+v5EsxZC5ctC8OwQ9pdnSDxed9uk3wVIw==",
+  "success": true,
+  "projectFilePath": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot6\\LiskovSubstitutionPrincipleDemo\\LiskovSubstitutionPrincipleDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bravo 15\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
