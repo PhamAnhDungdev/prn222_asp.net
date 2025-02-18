@@ -1,0 +1,41 @@
+﻿@model IEnumerable<DemoASPNETCoreMVC.Models.Product>
+
+@{
+    ViewBag.Title = "Danh sách sản phẩm";
+}
+
+<h2>Danh sách sản phẩm</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <div class="alert alert-info">
+        @ViewBag.Message
+    </div>
+}
+else
+{
+    <table class="table">
+        <tr>
+            <th>ID sản phẩm</th>
+            <th>Tên</th>
+            <th>Giá</th>
+            <th>Còn lại</th>
+            <th>Thao tác</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductId</td>
+                <td>@item.ProductName</td>
+                <td>@item.Price</td>
+                <td>@item.UnitsInStock</td>
+                <td>
+                    @Html.ActionLink("Chi tiết", "Details", new { id = item.ProductId }) |
+                    @Html.ActionLink("Sửa", "Edit", new { id = item.ProductId }) |
+                    @Html.ActionLink("Xóa", "Delete", new { id = item.ProductId })
+                </td>
+            </tr>
+        }
+    </table>
+}

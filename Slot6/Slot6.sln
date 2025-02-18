@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityPrincipleDemo", "SingleResponsibilityPrincipleDemo\SingleResponsibilityPrincipleDemo.csproj", "{A43DAB2B-9D41-4474-A5B8-7356A0E70CD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrincipleDemo", "SingleResponsibilityPrincipleDemo\SingleResponsibilityPrincipleDemo.csproj", "{A43DAB2B-9D41-4474-A5B8-7356A0E70CD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrincipleDemo", "OpenClosedPrincipleDemo\OpenClosedPrincipleDemo.csproj", "{6AA64575-3F83-405E-833A-24EF9B5DA24F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosedPrincipleDemo", "OpenClosedPrincipleDemo\OpenClosedPrincipleDemo.csproj", "{6AA64575-3F83-405E-833A-24EF9B5DA24F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrincipleDemo", "LiskovSubstitutionPrincipleDemo\LiskovSubstitutionPrincipleDemo.csproj", "{DB796B79-93CE-4EC9-B9CA-1EEBCB22192A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovSubstitutionPrincipleDemo", "LiskovSubstitutionPrincipleDemo\LiskovSubstitutionPrincipleDemo.csproj", "{DB796B79-93CE-4EC9-B9CA-1EEBCB22192A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrincipleDemo", "InterfaceSegregationPrincipleDemo\InterfaceSegregationPrincipleDemo.csproj", "{0E3746C1-180D-4408-A447-0CB89A084B1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregationPrincipleDemo", "InterfaceSegregationPrincipleDemo\InterfaceSegregationPrincipleDemo.csproj", "{0E3746C1-180D-4408-A447-0CB89A084B1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_IoC_Pattern", "Demo_IoC_Pattern\Demo_IoC_Pattern.csproj", "{DD98ECA5-1F70-4E18-88F0-2D7C5683D8DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_IoC_Pattern", "Demo_IoC_Pattern\Demo_IoC_Pattern.csproj", "{DD98ECA5-1F70-4E18-88F0-2D7C5683D8DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceCollectionClassDemo", "ServiceCollectionClassDemo\ServiceCollectionClassDemo.csproj", "{AC6F4948-CD9D-4B4C-B70B-2EC9CB66F43F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI_ConstructorInjectionPatternDemo", "DI_ConstructorInjectionPatternDemo\DI_ConstructorInjectionPatternDemo.csproj", "{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{DD98ECA5-1F70-4E18-88F0-2D7C5683D8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD98ECA5-1F70-4E18-88F0-2D7C5683D8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD98ECA5-1F70-4E18-88F0-2D7C5683D8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6F4948-CD9D-4B4C-B70B-2EC9CB66F43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6F4948-CD9D-4B4C-B70B-2EC9CB66F43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6F4948-CD9D-4B4C-B70B-2EC9CB66F43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6F4948-CD9D-4B4C-B70B-2EC9CB66F43F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

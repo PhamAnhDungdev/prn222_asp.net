@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Đăng nhập</h2>
+
+    @if (!string.IsNullOrEmpty(ViewBag.Error))
+    {
+        <div class="alert alert-danger">@ViewBag.Error</div>
+    }
+
+    <form asp-controller="Authentication" asp-action="LoginAuthen" method="post" class="mx-auto" style="max-width: 400px;">
+        <div class="mb-3">
+            <label class="form-label">Email</label>
+            <input type="text" name="Email" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Mật khẩu</label>
+            <div class="input-group">
+                <input type="password" name="Password" class="form-control" id="passwordInput" required />
+                <button type="button" class="btn btn-outline-secondary" onclick="togglePassword()">
+                    <i class="fa fa-eye" id="toggleIcon"></i>
+                </button>
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary w-100">Đăng nhập</button>
+    </form>
+</div>
+<script>
+    function togglePassword() {
+        const passwordInput = document.getElementById('passwordInput');
+        const toggleIcon = document.getElementById('toggleIcon');
+
+        if (passwordInput.type === 'password') {
+            passwordInput.type = 'text';
+            toggleIcon.classList.remove('fa-eye');
+            toggleIcon.classList.add('fa-eye-slash');
+        } else {
+            passwordInput.type = 'password';
+            toggleIcon.classList.remove('fa-eye-slash');
+            toggleIcon.classList.add('fa-eye');
+        }
+    }
+</script>

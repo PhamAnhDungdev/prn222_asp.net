@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Register</h2>
+    <form asp-action="RegisterAuthen" method="post" class="mx-auto" style="max-width: 400px;">
+        <div class="mb-3">
+            <label class="form-label">Email</label>
+            <input type="text" name="Email" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Mật khẩu</label>
+            <input type="password" name="Password" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Xác nhận mật khẩu</label>
+            <input type="password" name="ConfirmPassword" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-primary w-100">Đăng ký</button>
+    </form>
+</div>
