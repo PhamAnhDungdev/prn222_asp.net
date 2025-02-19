@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot6\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}|DI_ConstructorInjectionPatternDemo\\DI_ConstructorInjectionPatternDemo.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\slot6\\di_constructorinjectionpatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}|DI_ConstructorInjectionPatternDemo\\DI_ConstructorInjectionPatternDemo.csproj|solutionrelative:di_constructorinjectionpatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}|DI_ConstructorInjectionPatternDemo\\DI_ConstructorInjectionPatternDemo.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\slot6\\di_constructorinjectionpatterndemo\\model\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}|DI_ConstructorInjectionPatternDemo\\DI_ConstructorInjectionPatternDemo.csproj|solutionrelative:di_constructorinjectionpatterndemo\\model\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}|DI_ConstructorInjectionPatternDemo\\DI_ConstructorInjectionPatternDemo.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\slot6\\di_constructorinjectionpatterndemo\\model\\businesslogiclayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}|DI_ConstructorInjectionPatternDemo\\DI_ConstructorInjectionPatternDemo.csproj|solutionrelative:di_constructorinjectionpatterndemo\\model\\businesslogiclayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,45 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataAccessLayer.cs",
-              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot6\\DI_ConstructorInjectionPatternDemo\\Model\\DataAccessLayer.cs",
-              "RelativeDocumentMoniker": "DI_ConstructorInjectionPatternDemo\\Model\\DataAccessLayer.cs",
-              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot6\\DI_ConstructorInjectionPatternDemo\\Model\\DataAccessLayer.cs",
-              "RelativeToolTip": "DI_ConstructorInjectionPatternDemo\\Model\\DataAccessLayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T18:23:46.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BusinessLogicLayer.cs",
-              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot6\\DI_ConstructorInjectionPatternDemo\\Model\\BusinessLogicLayer.cs",
-              "RelativeDocumentMoniker": "DI_ConstructorInjectionPatternDemo\\Model\\BusinessLogicLayer.cs",
-              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot6\\DI_ConstructorInjectionPatternDemo\\Model\\BusinessLogicLayer.cs",
-              "RelativeToolTip": "DI_ConstructorInjectionPatternDemo\\Model\\BusinessLogicLayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T18:23:32.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot6\\DI_ConstructorInjectionPatternDemo\\Program.cs",
-              "RelativeDocumentMoniker": "DI_ConstructorInjectionPatternDemo\\Program.cs",
-              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot6\\DI_ConstructorInjectionPatternDemo\\Program.cs",
-              "RelativeToolTip": "DI_ConstructorInjectionPatternDemo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T18:22:56.759Z",
-              "EditorCaption": ""
             }
           ]
         }

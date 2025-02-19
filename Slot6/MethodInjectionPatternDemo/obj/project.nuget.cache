@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SiqGDM8PyWiAtvrlPipOjBtOF7x+Spth4xu211MaFyYtT05jhc+x3ybE7AErmDMOwANNmASHajBZUq9XafPAhA==",
+  "success": true,
+  "projectFilePath": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot6\\MethodInjectionPatternDemo\\MethodInjectionPatternDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bravo 15\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\Bravo 15\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

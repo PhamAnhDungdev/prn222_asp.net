@@ -13,9 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregationPrincip
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_IoC_Pattern", "Demo_IoC_Pattern\Demo_IoC_Pattern.csproj", "{DD98ECA5-1F70-4E18-88F0-2D7C5683D8DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceCollectionClassDemo", "ServiceCollectionClassDemo\ServiceCollectionClassDemo.csproj", "{AC6F4948-CD9D-4B4C-B70B-2EC9CB66F43F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceCollectionClassDemo", "ServiceCollectionClassDemo\ServiceCollectionClassDemo.csproj", "{AC6F4948-CD9D-4B4C-B70B-2EC9CB66F43F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI_ConstructorInjectionPatternDemo", "DI_ConstructorInjectionPatternDemo\DI_ConstructorInjectionPatternDemo.csproj", "{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DI_ConstructorInjectionPatternDemo", "DI_ConstructorInjectionPatternDemo\DI_ConstructorInjectionPatternDemo.csproj", "{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertyInjectionPatternDemo", "PropertyInjectionPatternDemo\PropertyInjectionPatternDemo.csproj", "{BD8990C5-0486-4EC3-BD35-ECF0CA30F80C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodInjectionPatternDemo", "MethodInjectionPatternDemo\MethodInjectionPatternDemo.csproj", "{C7D6D1F9-4414-4328-B77C-D1D5A0A798DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmbientContextDemo", "AmbientContextDemo\AmbientContextDemo.csproj", "{0C875860-DDD0-4F18-88EF-FF10C2696B65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C96D2A3-069F-4DC0-AC5B-0BCE1ECEF569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8990C5-0486-4EC3-BD35-ECF0CA30F80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8990C5-0486-4EC3-BD35-ECF0CA30F80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8990C5-0486-4EC3-BD35-ECF0CA30F80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8990C5-0486-4EC3-BD35-ECF0CA30F80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D6D1F9-4414-4328-B77C-D1D5A0A798DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D6D1F9-4414-4328-B77C-D1D5A0A798DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D6D1F9-4414-4328-B77C-D1D5A0A798DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D6D1F9-4414-4328-B77C-D1D5A0A798DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C875860-DDD0-4F18-88EF-FF10C2696B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C875860-DDD0-4F18-88EF-FF10C2696B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C875860-DDD0-4F18-88EF-FF10C2696B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C875860-DDD0-4F18-88EF-FF10C2696B65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

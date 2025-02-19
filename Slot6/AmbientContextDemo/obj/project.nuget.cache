@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lXJWXZm/d8wygXAzcZP3UYMjj6zBFBMBn7RDubToK2xwDiUXtNMzSUE0SaKF84Z4oDGbFKu2OJMXANhZqjiOSw==",
+  "success": true,
+  "projectFilePath": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Slot6\\AmbientContextDemo\\AmbientContextDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bravo 15\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\Bravo 15\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
