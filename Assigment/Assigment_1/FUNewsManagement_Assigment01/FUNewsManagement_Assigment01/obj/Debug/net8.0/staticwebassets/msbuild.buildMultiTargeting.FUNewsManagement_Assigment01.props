@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FUNewsManagement_Assigment01.props" />
+</Project>

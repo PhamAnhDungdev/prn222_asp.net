@@ -1,0 +1,78 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Register</h2>
+    <form asp-action="RegisterAuthen" method="post" class="mx-auto" style="max-width: 400px;" onsubmit="return validateForm()">
+        <div class="mb-3">
+            <label class="form-label">Email</label>
+            <input type="email" name="Email" class="form-control" id="emailInput" required />
+            <div class="invalid-feedback">Please enter a valid email address.</div>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Mật khẩu</label>
+            <div class="input-group">
+                <input type="password" name="Password" class="form-control" id="passwordInput" required />
+                <button type="button" class="btn btn-outline-secondary" onclick="togglePassword('passwordInput', 'toggleIcon1')">
+                    <i class="fas fa-eye" id="toggleIcon1"></i>
+                </button>
+            </div>
+            <div class="form-text">Mật khẩu phải có ít nhất 6 ký tự</div>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Xác nhận mật khẩu</label>
+            <div class="input-group">
+                <input type="password" name="ConfirmPassword" class="form-control" id="confirmPasswordInput" required />
+                <button type="button" class="btn btn-outline-secondary" onclick="togglePassword('confirmPasswordInput', 'toggleIcon2')">
+                    <i class="fas fa-eye" id="toggleIcon2"></i>
+                </button>
+            </div>
+            <div class="invalid-feedback">Mật khẩu không khớp</div>
+        </div>
+        <div class="text-end mb-3">
+            <a href="/Authentication/Login" class="text-decoration-none">Already have an account? Login</a>
+        </div>
+        <button type="submit" class="btn btn-primary w-100">Đăng ký</button>
+    </form>
+</div>
+
+<script>
+    function togglePassword(inputId, iconId) {
+        const passwordInput = document.getElementById(inputId);
+        const toggleIcon = document.getElementById(iconId);
+        
+        if (passwordInput.type === 'password') {
+            passwordInput.type = 'text';
+            toggleIcon.classList.remove('fa-eye');
+            toggleIcon.classList.add('fa-eye-slash');
+        } else {
+            passwordInput.type = 'password';
+            toggleIcon.classList.remove('fa-eye-slash');
+            toggleIcon.classList.add('fa-eye');
+        }
+    }
+
+    function validateForm() {
+        const email = document.getElementById('emailInput').value;
+        const password = document.getElementById('passwordInput').value;
+        const confirmPassword = document.getElementById('confirmPasswordInput').value;
+        let isValid = true;
+        // Validate password length
+        if (password.length < 6) {
+            document.getElementById('passwordInput').classList.add('is-invalid');
+            isValid = false;
+        } else {
+            document.getElementById('passwordInput').classList.remove('is-invalid');
+        }
+
+        // Validate password match
+        if (password !== confirmPassword) {
+            document.getElementById('confirmPasswordInput').classList.add('is-invalid');
+            isValid = false;
+        } else {
+            document.getElementById('confirmPasswordInput').classList.remove('is-invalid');
+        }
+
+        return isValid;
+    }
+</script>

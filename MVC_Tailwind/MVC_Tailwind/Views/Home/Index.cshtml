@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mx-auto px-4 mt-8">
+    <div class="text-center mb-12">
+        <h1 class="text-4xl font-bold mb-4">FU News Management System</h1>
+        <p class="text-xl text-gray-600">Hệ thống quản lý và xuất bản tin tức</p>
+    </div>
+
+    <!-- Features -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+        <div class="bg-white rounded-lg shadow-md p-6">
+            <h2 class="text-xl font-semibold mb-4">Tin tức mới nhất</h2>
+            <p class="text-gray-600 mb-4">Cập nhật thông tin mới nhất từ trường</p>
+            <a href="#" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">
+                Xem tin tức
+            </a>
+        </div>
+        <!-- Thêm các feature card khác tương tự -->
+    </div>
+
+    <!-- Search -->
+    <div class="max-w-2xl mx-auto mb-8">
+        <div class="flex">
+            <input type="text"
+                   class="flex-1 p-2 border border-gray-300 rounded-l focus:outline-none focus:border-blue-500"
+                   placeholder="Tìm kiếm tin tức...">
+            <button class="bg-orange-600 text-black px-6 py-2 rounded-r hover:bg-blue-600">
+                Tìm kiếm
+            </button>
+        </div>
+    </div>
+</div>

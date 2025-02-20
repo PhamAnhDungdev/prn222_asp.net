@@ -1,0 +1,45 @@
+1. Vào dependences chọn nuget package
+- Add design vào dependence 8.0.2: Microsoft.EntityFrameworkCore.Design
+- Add SqlServer 8.0.2: Microsoft.EntityFramework.SqlServer
+
+=> Xong rebuild
+2. Vào project. bật terminal. paste đoạn code connect này để then model
+dotnet ef dbcontext scaffold "server =MSI; database = MyStock;uid=sa;pwd=123;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+
+Khi đã có database, và muốn add thêm bảng.
+dotnet ef dbcontext scaffold "server =MSI; database = FUNewsManagement;uid=sa;pwd=123;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models -f
+
+=> Nếu ra model = Success
+
+
+3. Add code này vào file main: 
+
+*Giữa: 
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<MyStockContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MyStockDB"),
+    sqlOptions => sqlOptions.EnableRetryOnFailure())
+);
+
+builder.Services.AddControllersWithViews();
+
+
+4. Sửa appsettings.json
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "My+DBName": "Server=(local);uid=sa;pwd=123;database=DatabaseName"
+  }
+}
+
+5. 
+Lưu ý khi chạy project:
+
+Phải vào appsettings.json chọn copy always để connect chuẩn tới Db

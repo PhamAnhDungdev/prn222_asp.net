@@ -1,0 +1,13 @@
+﻿@model IEnumerable<FUNewsManagement_Assigment01.Models.Category>
+
+<a class="nav-link text-dark dropdown-toggle" href="#" role="button">
+    Categories
+</a>
+<div class="categories-dropdown">
+    @foreach (var category in Model)
+    {
+        <a class="dropdown-item" href="@Url.Action("Index", "News", new { categoryId = category.CategoryId })">
+            @category.CategoryName
+        </a>
+    }
+</div>
