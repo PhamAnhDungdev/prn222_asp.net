@@ -10,7 +10,7 @@
         <div class="alert alert-danger">@ViewBag.Error</div>
     }
 
-    <form asp-controller="Authentication" asp-action="LoginAuthen" method="post" class="mx-auto" style="max-width: 400px;">
+    <form asp-controller="Authentication" asp-action="Login" method="post" class="mx-auto" style="max-width: 400px;">
         <div class="mb-3">
             <label class="form-label">Email</label>
             <input type="text" name="Email" class="form-control" value="@ViewBag.Email" required />
@@ -24,6 +24,20 @@
                 </button>
             </div>
         </div>
+        @if (!ViewData.ModelState.IsValid)
+        {
+            <div class="alert alert-danger">
+                <ul>
+                    @foreach (var modelState in ViewData.ModelState.Values)
+                    {
+                        foreach (var error in modelState.Errors)
+                        {
+                            <li>@error.ErrorMessage</li>
+                        }
+                    }
+                </ul>
+            </div>
+        }
         <div class="text-end mb-3">
             <a href="/Authentication/Register" class="text-decoration-none">Register account?</a>
         </div>

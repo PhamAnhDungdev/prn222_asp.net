@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Assigment\\Assigment_1\\FUNewsManagement_Assigment01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27E8FDF2-3218-4DC4-B757-E134BCBFDB8E}|FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\assigment\\assigment_1\\funewsmanagement_assigment01\\funewsmanagement_assigment01\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{27E8FDF2-3218-4DC4-B757-E134BCBFDB8E}|FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01.csproj|solutionrelative:funewsmanagement_assigment01\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{27E8FDF2-3218-4DC4-B757-E134BCBFDB8E}|FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\assigment\\assigment_1\\funewsmanagement_assigment01\\funewsmanagement_assigment01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E8FDF2-3218-4DC4-B757-E134BCBFDB8E}|FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01.csproj|solutionrelative:funewsmanagement_assigment01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E8FDF2-3218-4DC4-B757-E134BCBFDB8E}|FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\assigment\\assigment_1\\funewsmanagement_assigment01\\funewsmanagement_assigment01\\controllers\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E8FDF2-3218-4DC4-B757-E134BCBFDB8E}|FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01.csproj|solutionrelative:funewsmanagement_assigment01\\controllers\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E8FDF2-3218-4DC4-B757-E134BCBFDB8E}|FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\assigment\\assigment_1\\funewsmanagement_assigment01\\funewsmanagement_assigment01\\views\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27E8FDF2-3218-4DC4-B757-E134BCBFDB8E}|FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01.csproj|solutionrelative:funewsmanagement_assigment01\\views\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E8FDF2-3218-4DC4-B757-E134BCBFDB8E}|FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\assigment\\assigment_1\\funewsmanagement_assigment01\\funewsmanagement_assigment01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27E8FDF2-3218-4DC4-B757-E134BCBFDB8E}|FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01.csproj|solutionrelative:funewsmanagement_assigment01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27E8FDF2-3218-4DC4-B757-E134BCBFDB8E}|FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01.csproj|d:\\learningcontent.fpt\\spring2025\\prn222 - fe - pe\\practiceclass\\assigment\\assigment_1\\funewsmanagement_assigment01\\funewsmanagement_assigment01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Assigment\\Assigment_1\\FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "FUNewsManagement_Assigment01\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Assigment\\Assigment_1\\FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "FUNewsManagement_Assigment01\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-20T10:17:23.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Assigment\\Assigment_1\\FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FUNewsManagement_Assigment01\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Assigment\\Assigment_1\\FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "FUNewsManagement_Assigment01\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAgwD4AAAAxAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T10:15:57.78Z",
+              "WhenOpened": "2025-02-20T17:22:50.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Assigment\\Assigment_1\\FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01\\appsettings.json",
+              "RelativeDocumentMoniker": "FUNewsManagement_Assigment01\\appsettings.json",
+              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Assigment\\Assigment_1\\FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01\\appsettings.json",
+              "RelativeToolTip": "FUNewsManagement_Assigment01\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T16:56:52.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Assigment\\Assigment_1\\FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01\\Views\\Authentication\\Login.cshtml",
+              "RelativeDocumentMoniker": "FUNewsManagement_Assigment01\\Views\\Authentication\\Login.cshtml",
+              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Assigment\\Assigment_1\\FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01\\Views\\Authentication\\Login.cshtml",
+              "RelativeToolTip": "FUNewsManagement_Assigment01\\Views\\Authentication\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T16:41:56.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Assigment\\Assigment_1\\FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01\\Program.cs",
+              "RelativeDocumentMoniker": "FUNewsManagement_Assigment01\\Program.cs",
+              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Assigment\\Assigment_1\\FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01\\Program.cs",
+              "RelativeToolTip": "FUNewsManagement_Assigment01\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:46:17.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Assigment\\Assigment_1\\FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01\\Controllers\\Authentication\\Authentication.cs",
+              "RelativeDocumentMoniker": "FUNewsManagement_Assigment01\\Controllers\\Authentication\\Authentication.cs",
+              "ToolTip": "D:\\LearningContent.FPT\\Spring2025\\PRN222 - FE - PE\\PracticeClass\\Assigment\\Assigment_1\\FUNewsManagement_Assigment01\\FUNewsManagement_Assigment01\\Controllers\\Authentication\\Authentication.cs",
+              "RelativeToolTip": "FUNewsManagement_Assigment01\\Controllers\\Authentication\\Authentication.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwH0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:31:09.442Z",
               "EditorCaption": ""
             }
           ]

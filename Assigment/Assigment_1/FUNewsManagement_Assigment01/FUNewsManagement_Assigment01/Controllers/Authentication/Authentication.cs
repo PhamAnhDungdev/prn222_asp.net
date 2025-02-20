@@ -1,24 +1,151 @@
-﻿using FUNewsManagement_Assigment01.Models;
+﻿using FUNewsManagement_Assigment01.Controllers;
+using FUNewsManagement_Assigment01.Models;
+using FUNewsManagement_Assigment01.Services.Interfaces;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Security.Claims;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Model;
+using System.ComponentModel.DataAnnotations;
 
 namespace DemoASPNETCoreMVC.Controllers.Authentication
 {
-    public class Authentication : Controller
+    public class Authentication : BaseController
     {
+        private readonly IUserService _userService;
+        private readonly IConfiguration _configuration;
         private readonly FunewsManagementContext _context;
         private readonly ILogger<Authentication> _logger;
 
         // Thêm MyStockContext vào constructor
-        public Authentication(FunewsManagementContext myStockContext, ILogger<Authentication> logger)
+        public Authentication(IUserService userService,
+        IConfiguration configuration)
         {
-            _context = myStockContext;
-            _logger = logger;
+            _userService = userService;
+            _configuration = configuration;
         }
+
+        [HttpGet]
         public IActionResult Login()
         {
-            return View("Login", "Authentication");
+            Debug.WriteLine(User);
+            // Nếu đã đăng nhập, chuyển đến trang chủ
+            if (User.Identity.IsAuthenticated)
+            {
+                //return RedirectToAction("Index", "Home");
+            }
+            return View();
         }
+
+        [HttpPost]
+        public async Task<IActionResult> Login(LoginModel model)
+        {
+            // ModelState là một thuộc tính trong ASP.NET MVC dùng để xác thực(validate) dữ liệu của model.
+            // Nó chứa trạng thái validation của model và các thông báo lỗi.
+            if (!ModelState.IsValid)
+            {
+                return View(model);
+            }
+
+            // Kiểm tra tài khoản admin từ config
+            var adminEmail = _configuration["AdminAccount:Email"];
+            var adminPassword = _configuration["AdminAccount:Password"];
+
+            if (model.Email == adminEmail &&
+                model.Password == adminPassword)
+            {
+                // Đăng nhập với quyền admin
+                await SignInUser(model.Email, "Admin", "0");
+                return RedirectToAction("Index", "Home");
+            }
+
+            // Kiểm tra user thường
+            var user = await _userService.ValidateUser(
+                model.Email, model.Password);
+
+            if (user != null)
+            {
+                string role = user.AccountRole == 1 ? "Staff" : "Lecturer";
+                await SignInUser(
+                    user.AccountEmail,
+                    role,
+                    user.AccountId.ToString());
+
+                return RedirectToAction("Index", "Home");
+            }
+
+            ModelState.AddModelError("", "Email hoặc mật khẩu không đúng");
+            return View(model);
+        }
+
+        // Phương thức tạo cookie đăng nhập
+        private async Task SignInUser(
+            string email,
+            string role,
+            string userId
+        )
+        {
+            // Tạo danh sách claims
+            var claims = new List<Claim>
+        {
+            new Claim(ClaimTypes.Name, email),
+            new Claim(ClaimTypes.Role, role),
+            new Claim("UserId", userId)
+        };
+
+            // Tạo identity
+            var claimsIdentity = new ClaimsIdentity(
+                claims,
+                CookieAuthenticationDefaults.AuthenticationScheme);
+
+            // Cấu hình cookie
+            var authProperties = new AuthenticationProperties
+            {
+                ExpiresUtc = DateTimeOffset.UtcNow.AddMinutes(30)
+            };
+
+            // Tạo cookie đăng nhập
+            await HttpContext.SignInAsync(
+                CookieAuthenticationDefaults.AuthenticationScheme,
+                new ClaimsPrincipal(claimsIdentity),
+                authProperties);
+
+            // Debug sau khi tạo cookie
+            Debug.WriteLine("=== User Authentication Info ===");
+            Debug.WriteLine($"Authentication Type: {HttpContext.User.Identity?.AuthenticationType}");
+            Debug.WriteLine($"Is Authenticated: {HttpContext.User.Identity?.IsAuthenticated}");
+
+            // Log tất cả claims
+            Debug.WriteLine("Claims:");
+            foreach (var claim in claims)
+            {
+                Debug.WriteLine($"- {claim.Type}: {claim.Value}");
+            }
+
+            // Log cookie
+            Debug.WriteLine("Cookies:");
+            foreach (var cookie in HttpContext.Request.Cookies)
+            {
+                Debug.WriteLine($"- {cookie.Key}: {cookie.Value}");
+            }
+        }
+
+        public async Task<IActionResult> Logout()
+        {
+            // Xóa cookie đăng nhập
+            await HttpContext.SignOutAsync(
+                CookieAuthenticationDefaults.AuthenticationScheme);
+            return RedirectToAction("Login");
+        }
+
+
+
+
+
+
+
+
         public IActionResult LoginAuthen(string Email, string Password)
         {
             var user = _context.SystemAccounts
